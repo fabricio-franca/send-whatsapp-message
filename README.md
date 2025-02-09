@@ -32,7 +32,7 @@ Este projeto é um chatbot que utiliza a EvolutionAPI para enviar mensagens de t
 
 ## Uso
 
-### Interface do Streamlit
+## Interface do Streamlit
 
 A interface permitirá que você envie diferentes tipos de mensagens para um número de telefone especificado.
 
@@ -59,6 +59,7 @@ webhook_whatsapp.py
 Este arquivo contém a configuração do Flask para receber webhooks e processar mensagens recebidas.
 
 ##Contribuição
+
 Faça um fork do projeto.
 Crie uma nova branch: git checkout -b minha-nova-funcionalidade
 Faça suas alterações e commit: git commit -m 'Adiciona nova funcionalidade'
@@ -66,6 +67,7 @@ Envie para o branch original: git push origin minha-nova-funcionalidade
 Crie um pull request.
 
 ##Licença
+
 Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
 
